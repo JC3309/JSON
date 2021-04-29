@@ -10,5 +10,22 @@
   {
     "nameCH": "金融",
     "nameEN" : "Finance"
+  },
+  {
+    "nameCH": "数学",
+    "nameEN" : "Mathematics"
+  },
+  {
+    "nameCH": "统计",
+    "nameEN" : "Statistics"
+  },
+  {
+    "nameCH": "管理",
+    "nameEN" : "Management"
+  },
+  {
+    "nameCH": "商务",
+    "nameEN" : "Business"
   }
+  
 ]
