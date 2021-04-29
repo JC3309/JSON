@@ -1,14 +1,14 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat"
+    "nameCH": "经济",
+    "nameEN" : "economics"
   },
   {
-    "name": "Barky",
-    "species" : "dog"
+    "nameCH": "会计",
+    "nameEN" : "accounting"
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat"
+    "nameCH": "金融",
+    "nameEN" : "finance"
   }
 ]
