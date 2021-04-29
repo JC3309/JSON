@@ -10,21 +10,5 @@
   {
     "nameCH": "金融",
     "nameEN" : "Finance"
-  },
-   {
-    "nameCH": "人力资源管理",
-    "nameEN" : "Human Resources Management"
-  },
-   {
-    "nameCH": "商务",
-    "nameEN" : "Business"
-  },
-   {
-    "nameCH": "统计",
-    "nameEN" : "Statistics"
-  },
-   {
-    "nameCH": "数学",
-    "nameEN" : "Mathematics"
   }
 ]
