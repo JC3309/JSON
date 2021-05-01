@@ -15,6 +15,26 @@
    "schoolID":3,
    "nameZH":"滑铁卢大学",
    "nameEN":"University of Waterloo"
+  },
+   {
+   "schoolID":4,
+   "nameZH":"约克大学",
+   "nameEN":"York University"
+  },
+   {
+   "schoolID":5,
+   "nameZH":"英属哥伦比亚大学",
+   "nameEN":"University of British Columbia"
+  },
+   {
+   "schoolID":6,
+   "nameZH":"维多利亚大学",
+   "nameEN":"University of Victoria"
+  },
+   {
+   "schoolID":7,
+   "nameZH":"瑞尔森大学",
+   "nameEN":"Ryerson University"
   }
   
 ]
