@@ -1,32 +1,25 @@
 
 [
   {
-    "nameCH": "经济abc",
-    "nameEN" : "Economics"
+    "name":"AS Math"
   },
   {
-    "nameCH": "会计",
-    "nameEN" : "Accounting"
+    "name": "AS Physics"
   },
   {
-    "nameCH": "金融",
-    "nameEN" : "Finance"
+    "name": "AS Chemistry"
   },
   {
-    "nameCH": "数学",
-    "nameEN" : "Mathematics"
+    "nameCH": "AS Biology"
   },
   {
-    "nameCH": "统计",
-    "nameEN" : "Statistics"
+    "name": "A2 Math"
   },
   {
-    "nameCH": "管理",
-    "nameEN" : "Management"
+    "name": "A2 Physics"
   },
   {
-    "nameCH": "商务",
-    "nameEN" : "Business"
+    "nameCH": "A2 Chemistry"
   }
   
 ]
