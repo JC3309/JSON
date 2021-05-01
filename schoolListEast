@@ -1,0 +1,20 @@
+[
+  
+  {
+   "schoolID":1,
+   "nameZH":"多伦多大学",
+   "nameEN":"University of Toronto"
+  },
+  
+  {
+   "schoolID":2,
+   "nameZH":"皇后大学",
+   "nameEN":"Queen's University"
+  },
+   {
+   "schoolID":3,
+   "nameZH":"滑铁卢大学",
+   "nameEN":"University of Waterloo"
+  }
+  
+]
