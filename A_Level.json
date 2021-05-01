@@ -1,25 +1,11 @@
 
 [
+  
   {
-    "name":"AS Math"
+   "level":["A*","A","B","C"]
   },
   {
-    "name": "AS Physics"
-  },
-  {
-    "name": "AS Chemistry"
-  },
-  {
-    "name": "AS Biology"
-  },
-  {
-    "name": "A2 Math"
-  },
-  {
-    "name": "A2 Physics"
-  },
-  {
-    "name": "A2 Chemistry"
+    "name": ["AS Physics", "AS Chemistry",  "AS Biology", "A2 Math"]
   }
   
 ]
