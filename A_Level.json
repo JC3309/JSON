@@ -3,7 +3,7 @@
   
   {
    "level":["A*","A","B","C"],
-     "name": ["AS Physics", "AS Chemistry",  "AS Biology", "A2 Math"]
+     "subject": ["AS Physics", "AS Chemistry",  "AS Biology", "A2 Math"]
   }
   
 ]
