@@ -3,37 +3,44 @@
   {
    "schoolID":1,
    "nameZH":"多伦多大学",
+   "region":"east",
    "nameEN":"University of Toronto"
   },
   
   {
    "schoolID":2,
    "nameZH":"皇后大学",
+      "region":"east",
    "nameEN":"Queen's University"
   },
    {
    "schoolID":3,
    "nameZH":"滑铁卢大学",
+      "region":"east",
    "nameEN":"University of Waterloo"
   },
    {
    "schoolID":4,
    "nameZH":"约克大学",
+      "region":"east",
    "nameEN":"York University"
   },
    {
    "schoolID":5,
    "nameZH":"英属哥伦比亚大学",
+      "region":"west",
    "nameEN":"University of British Columbia"
   },
    {
    "schoolID":6,
    "nameZH":"维多利亚大学",
+      "region":"east",
    "nameEN":"University of Victoria"
   },
    {
    "schoolID":7,
    "nameZH":"瑞尔森大学",
+      "region":"east",
    "nameEN":"Ryerson University"
   }
   
