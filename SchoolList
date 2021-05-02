@@ -42,6 +42,12 @@
    "nameZH":"瑞尔森大学",
       "region":"east",
    "nameEN":"Ryerson University"
+  },
+  {
+   "schoolID":8,
+   "nameZH":"里贾纳大学",
+      "region":"mid",
+   "nameEN":"University of Regina"
   }
   
 ]
