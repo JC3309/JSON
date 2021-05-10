@@ -1,0 +1,29 @@
+[
+  {
+   "schoolID":1,
+   "nameZH":"多伦多大学",
+   "nameEN":"University of Toronto",
+    "img_cover":"https://www.utoronto.ca/sites/default/files/cover-campus-utsc.jpg";
+    "img_schoolIntro":"https://images.shiksha.com/mediadata/images/1533275386phpeOjM3L.jpeg";
+    "schoolIntro_detail":"多伦多大学（University of Toronto）于1827年根据英国乔治四世颁布的皇家宪章所建立，是殖民时代上加拿大最早建立的高等学府之一。它早期名为“国王学院”，直至于1849年脱离圣公会而成为非宗教大学，并改为现名。受英国大学制度影响，多伦多大学是北美少数实行独立书院制的学府，各书院享有高度自治权。";
+    "Program_zh":"生命科学";
+    "Program_en":"Life Science";
+    "Program_detail":"lifescience123";
+    "programImg_sm":"https://images.squarespace-cdn.com/content/v1/5bbf936777b903e399d228fd/1574444410290-E8FHNT33EHN2GM6PBLE3/ke17ZwdGBToddI8pDm48kBrqANhdGvefbNSoyMseTvR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm8gdG5xRTtrVVyLXkddLwcnEqaXhsdiG-pfGSZhSUC0HqAKqPGJ0WrF1568m4hKTS/Rotman%2B2019%2B-%2BStudents%2B-%2BArchway%2B-%2BMichelle%252C%2BJayson%252C%2BQuinn_0049.jpg";
+    "programImg_md": "https://www.law.utoronto.ca/sites/default/files/content_images/content/students/studentlife16.jpg";
+    "programImg_lg": "https://future.utoronto.ca/wp-content/uploads/menu-university-life.jpg";
+    "major": 
+          [
+          {"nameZh":"生物化学",
+            "nameEn":"Biochemistry"
+            },
+            {"nameZh":"生物",
+             "nameEn":"Biology"
+            },
+            {"nameZh":"生物医学",
+            "nameEn":"Biomedical Sciences"
+            }
+          ]
+    
+  }
+]
