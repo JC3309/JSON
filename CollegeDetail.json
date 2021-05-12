@@ -18,7 +18,11 @@
     "residence":3,
     "meal":2,
     "incidental_fee":5,
-    "book":6
+    "book":6,
+    "major":[
+      {""}
+      
+     ,"IB","A level","AP/SAT","canada","english"],
   }
   
 ]
