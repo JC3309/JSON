@@ -20,7 +20,19 @@
     "incidental_fee":5,
     "book":6,
     "major":[
-       { "nameZH":"金融","nameEN":"Finance"},{ "nameZH":"会计","nameEN":"Accounting"}],
+        {
+  
+   "nameZH":"多伦多大学",
+  
+   "nameEN":"University of Toronto"
+  },
+  
+  {
+  
+   "nameZH":"皇后大学",
+ 
+   "nameEN":"Queen's University"
+  }],
   }
   
 ]
