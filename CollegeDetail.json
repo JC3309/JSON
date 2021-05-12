@@ -1,5 +1,8 @@
 [
-  {
   
+  {
+   "level":["A*","A","B","C"],
+     "subject": ["AS Physics", "AS Chemistry",  "AS Biology", "A2 Math"]
   }
+  
 ]
