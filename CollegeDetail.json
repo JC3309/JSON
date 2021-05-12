@@ -17,19 +17,7 @@
     "residence":3,
     "meal":2,
     "incidental_fee":5,
-    "book":6,
-    "major": 
-          [
-          {"nameZh":"生物化学",
-            "nameEn":"Biochemistry"
-            },
-            {"nameZh":"生物",
-             "nameEn":"Biology"
-            },
-            {"nameZh":"生物医学",
-            "nameEn":"Biomedical Sciences"
-            }
-          ]
+    "book":6
  
   }
 ]
