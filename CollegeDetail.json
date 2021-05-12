@@ -12,6 +12,12 @@
     "programImg_sm":"https://images.squarespace-cdn.com/content/v1/5bbf936777b903e399d228fd/1574444410290-E8FHNT33EHN2GM6PBLE3/ke17ZwdGBToddI8pDm48kBrqANhdGvefbNSoyMseTvR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm8gdG5xRTtrVVyLXkddLwcnEqaXhsdiG-pfGSZhSUC0HqAKqPGJ0WrF1568m4hKTS/Rotman%2B2019%2B-%2BStudents%2B-%2BArchway%2B-%2BMichelle%252C%2BJayson%252C%2BQuinn_0049.jpg",
     "programImg_md": "https://www.law.utoronto.ca/sites/default/files/content_images/content/students/studentlife16.jpg",
     "programImg_lg": "https://future.utoronto.ca/wp-content/uploads/menu-university-life.jpg",
+    "requirement":[{"chinese system"},{"IB"},{"A level"},{"AP/SAT"},{"canada"},{"english"}],
+    "tuition":40,
+    "residence":3,
+    "meal":2,
+    "incidental_fee":5,
+    "book":6,
     "major": 
           [
           {"nameZh":"生物化学",
@@ -24,6 +30,6 @@
             "nameEn":"Biomedical Sciences"
             }
           ]
-    
+ 
   }
 ]
