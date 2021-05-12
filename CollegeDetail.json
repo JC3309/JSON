@@ -18,21 +18,7 @@
     "residence":3,
     "meal":2,
     "incidental_fee":5,
-    "book":6,
-    "major":[
-        {
-  
-   "nameZH":"多伦多大学",
-  
-   "nameEN":"University of Toronto"
-  },
-  
-  {
-  
-   "nameZH":"皇后大学",
- 
-   "nameEN":"Queen's University"
-  }],
+    "book":6
   }
   
 ]
