@@ -20,9 +20,7 @@
     "incidental_fee":5,
     "book":6,
     "major":[
-      {""}
-      
-     ,"IB","A level","AP/SAT","canada","english"],
+       { "nameZH":"金融","nameEN":"Finance"},{ "nameZH":"会计","nameEN":"Accounting"}],
   }
   
 ]
